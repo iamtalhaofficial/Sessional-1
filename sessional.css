@@ -1,0 +1,14 @@
+body{
+    margin: auto;
+    background-color: darkgrey;
+}
+li {
+    display:inline;
+    padding: 10px;
+}
+
+button:hover{
+    
+    background-color: burlywood;
+}
+
